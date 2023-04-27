@@ -22,6 +22,7 @@
 ### 1. 3D打印机或者网上购买3D打印件(图纸在StlPrintout文件夹)。
 ### 2. 轴体，支持热插拔，建议使用五脚轴或三脚轴。
 ### 3. 电脑，可用于连接Pro Micro。
+### 4. 5V Arduino Pro Micro
 * * *
 ## 四、软件要求
 ### a. Arduino IDE（版本1.8.5+）和Pro Micro驱动程序。
