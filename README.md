@@ -25,13 +25,13 @@
 ### 4. 5V Arduino Pro Micro
 * * *
 ## 四、软件要求
-### a. Arduino IDE（版本1.8.5+）和Pro Micro驱动程序。
+### 1. Arduino IDE（版本1.8.5+）和Pro Micro驱动程序。
 
-### b. Pro Micro库文件和键盘库文件。
+### 2. Pro Micro库文件和键盘库文件。
 
-### c. 3D建模软件，如FreeCAD。
+### 3. 3D建模软件，如FreeCAD。
 
-### d. STL修复软件，如MakePrintable或Netfabb。
+### 4. STL修复软件，如MakePrintable或Netfabb。
 * * *
 ## 五、注意事项
 
